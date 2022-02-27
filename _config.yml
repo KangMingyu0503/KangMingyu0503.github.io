@@ -23,7 +23,7 @@ name                     : "KangMingyu"
 description              : "My Playground"
 url                      : "https://KangMingyu0503.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "KangMingyu0503/KangMingyu0503.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # ""
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -285,6 +285,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      show_date: true
