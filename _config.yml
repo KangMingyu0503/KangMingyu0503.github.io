@@ -25,7 +25,7 @@ url                      : "https://KangMingyu0503.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "https://github.com/KangMingyu0503/KangMingyu0503.github.io/blob/master/_posts/assets/images/EDC902E2-95CD-433F-B85B-6510F6D2067E_1_105_c.jpeg"
+logo                     : # ""
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
