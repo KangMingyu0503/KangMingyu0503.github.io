@@ -12,7 +12,7 @@ serach: false
 <br>
 
 > 1️⃣ __What Is Stack?__
-
+ 
  -  後入先出
  -  LIFO - Last In, First Out
  -  Stack is a linear data structure which follows a particular order in which the operations are performed.
